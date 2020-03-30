@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Why you should use a static site generator ?
-permalink: /:title
-background: 'staticfiles/img/blog.jpg'
+author:Rahul
+image: assets/images/blog.jpg
+comments: false
 ---
 Most website owners uses a CMS like <a href= "https://wordpress.org">WordPress</a> to power their website on the internet. In fact according to WordPress more than 60 million people use Wordpress. That’s a lot of people. Moreover WordPress is open source that means you can modify WordPress according to your needs and you don’t need to pay anything. So for a beginner it is highly recommend that you use a CMS like WordPress so that you can focus more on creating good quality content. One of the best things about WordPress is you don’t need to have any technical knowledge to use WordPress.
 
@@ -29,7 +30,7 @@ You also get the full freedom of using your own layout.
 One of the best things about Jekyll is that it is simple enough so that a simple user who just wants to get a blog running(like me) can use it and also advanced enough so that some one who has in depth knowledge of HTML and CSS and wants total control of their blog can also use it. You will get full HTML and CSS freedom in Jekyll if you choose so. That is a very big advantage for Jekyll. Now many large sites are also switching to static site generators like Jekyll. One of the things I would like to say again is the cost. Hosting a static site is much cheaper than hosting a dynamic site.
 Now I will post the image of my website speed test from <a href="https://tools.pingdom.com">pingdom</a>. I haven't done any optimization. This is just the out of the box speed test.
 
-<img src='{{site.baseurl}}/staticfiles/img/result.jpg'>
+<img src='{{site.baseurl}}/assets/images/result.jpg'>
 
 This is fast and I mean insanely fast considering that there is no optimization done by me.
 

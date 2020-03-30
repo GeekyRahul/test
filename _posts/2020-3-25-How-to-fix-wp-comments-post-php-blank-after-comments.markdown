@@ -1,7 +1,9 @@
 ---
 layout: post
 title: How to fix wp-comments-post.php blank after comments ?
-permalink: /:title
+author: Rahul
+comments: false
+image: assets/images/wordpress.jpg
 ---
 
 Ok this will be a very simple fix and most probably this is not a problem on your end but the web host or server side. This blog is hosted on awardspace and I also faced this program. But not to worry there is a very simple solution. I don’t know why this problem occurs but I think may be for some reason the server is not executing this specific file ‘wp-comments-post.php’ or may be the server might have blocked that file. But there is a very simple solution that we are going to share.
