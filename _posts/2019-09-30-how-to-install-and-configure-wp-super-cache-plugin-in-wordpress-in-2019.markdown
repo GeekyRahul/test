@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'How To Install And Configure WP Super Cache Plugin In WordPress In 2019 ? '
-author: rahul
+author: Rahul
 categories: blogging
-image: assets/images/landscape.jpg
+image: assets/images/blog.jpg
+permalink: /:categories/:title
 comments : false
 ---
 What is WP Super Cache?
