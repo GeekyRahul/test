@@ -2,6 +2,7 @@
 layout: post
 title: How to fix wp-comments-post.php blank after comments ?
 author: Rahul
+categories: blogging
 comments: false
 image: assets/images/wordpress.jpg
 ---

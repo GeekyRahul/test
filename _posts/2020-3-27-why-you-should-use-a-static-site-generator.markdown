@@ -2,6 +2,7 @@
 layout: post
 title: Why you should use a static site generator ?
 author: Rahul
+categories: blogging
 comments: false
 image: assets/images/webdesign.jpg
 ---
