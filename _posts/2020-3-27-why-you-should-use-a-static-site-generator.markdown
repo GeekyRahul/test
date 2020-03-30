@@ -3,7 +3,7 @@ layout: post
 title: Why you should use a static site generator ?
 author: Rahul
 comments: false
-image: assets/images/blog.jpg
+image: assets/images/webdesign.jpg
 ---
 Most website owners uses a CMS like <a href= "https://wordpress.org">WordPress</a> to power their website on the internet. In fact according to WordPress more than 60 million people use Wordpress. That’s a lot of people. Moreover WordPress is open source that means you can modify WordPress according to your needs and you don’t need to pay anything. So for a beginner it is highly recommend that you use a CMS like WordPress so that you can focus more on creating good quality content. One of the best things about WordPress is you don’t need to have any technical knowledge to use WordPress.
 
@@ -45,4 +45,4 @@ Well there is no straight answer. We spend the entire article telling you the re
 If your answer is yes then there is no reason for you to make a switch. But if you are more focused on speed , don't want to pay for hosting and is ready to go into the behind the scenes of how a website works then give it a try.
 What I suggest is try both WordPress and a static site generator like Jekyll and go with the one with which you are more comfortable.
 
-The background image in the top of the page was downloaded from Pixabay. Image by <a href="https://pixabay.com/users/Wokandapix-614097/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2355684">Wokandapix</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2355684">Pixabay</a>
+The background image in the top of the page was downloaded from Pixabay. Image by Image by <a href="https://pixabay.com/users/kreatikar-8562930/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3411373">Mudassar Iqbal</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3411373">Pixabay</a>
