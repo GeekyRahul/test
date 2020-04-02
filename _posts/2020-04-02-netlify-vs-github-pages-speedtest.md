@@ -112,7 +112,7 @@ Here the github pages version took 3 seconds to fully load.
 I know some people are going to think that this test was not fair because one version has one request less than the other.But I want to tell you that both websites were deployed from the same github repository so I don't know why that happened. But I don't think it is going to make much of a difference as both pages were the same size. I am not going to say one service lost and the other won.As you can see in most cases the differences very small. For me personally I think Netlify did better.
 In the below table the fully loaded times of both the versions are given.
 
-<table style="width: 266px;">
+<table style="width: 266px; border-color: black; float: left;" border="2">
 <tbody>
 <tr style="height: 23px;">
 <td style="width: 136px; height: 23px;">&nbsp;Tool or Service used</td>
@@ -152,7 +152,7 @@ In the below table the fully loaded times of both the versions are given.
 <tr style="height: 23px;">
 <td style="width: 136px; height: 23px;">&nbsp;Keycdn Speed Test</td>
 <td style="width: 54px; height: 23px;">&nbsp;2.2s</td>
-<td style="width: 75px; height: 23px;">&nbsp;3.0s</td>
+<td style="width: 75px; height: 23px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
