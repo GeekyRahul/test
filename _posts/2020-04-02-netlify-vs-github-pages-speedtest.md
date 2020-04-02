@@ -12,7 +12,7 @@ Netlify one of the most popular choice among those looking to host a static webs
 
 <h3>Our Test Conditions</h3>
 
-We set up a two identical websites on github pages and netlify. In fact both of them were deployed from the same github repository. The site was built using the static site generator Jekyll. We installed the mediumish theme on our test site. The theme already had a few posts built in complete with images. This helped us to simulate a real word scenario. The size of the webpage was around 1.9 MB. So the average size. There was a good number of css and js files on the webpage. We took multiple runs to minimize error and also to give the cdn time to cache resources. Because usually the first one or two requests will be cache miss as the cdn cache will be probably expired. But after a few visits everything will start to get served from the cdn.
+We set up a two identical websites on github pages and netlify. In fact both of them were deployed from the same github repository. The site was built using the static site generator Jekyll. We installed the mediumish theme on our test site. The theme already had a few posts built in complete with images. This helped us to simulate a real world scenario. The size of the webpage was around 1.9 MB. So the average size. There was a good number of css and js files on the webpage. We took multiple runs to minimize error and also to give the cdn time to cache resources. Because usually the first one or two requests will be cache miss as the cdn cache will be probably expired. But after a few visits everything will start to get served from the cdn.
 
 Services we used for the speed test are given below. 
 
@@ -26,7 +26,7 @@ Services we used for the speed test are given below.
   <li> <a href="https://tools.keycdn.com/speed">Keycdn Speed Test</a></li>
 </ul>
 
-So these are tools and services we used to conduct this test. Before giving you the results I have to tell you in some cases they were not consistent for both services.The next thing is just my personal opinion. So i have blurred it if you want you can click on the blurred text to un blur it.Among the two services i found<span class="spoiler">Netlify</span>to be little more consistent.
+So these are tools and services we used to conduct this test. Before giving you the results I have to tell you in some cases they were not consistent for both services.The next thing is just my personal opinion. So i have blurred it if you want you can click on the blurred text to un blur it.Among the two services i found<span class="spoiler"> Netlify </span>to be little more consistent.
 
 Both Github pages and Netlify are excellent solutions for hosting your site.Now lets find out who is faster and by how much.
 <h3> Results </h3>
@@ -44,7 +44,7 @@ This speed test may not be that accurate as my internet is a bit slow.
 
 <h5>Netlify speed test result</h5>
 <img src='{{site.baseurl}}/assets/images/pingdom-netlify.jpg'>
-As you can see a 2 MB webpage loaded in 475ms which is very first.We ran multiple tests and took the most concordant result.
+As you can see a 2 MB webpage loaded in 475ms which is very fast.We ran multiple tests and took the most concordant result.
 
 <h5>Github Pages Speed Test</h5>
 <img src='{{site.baseurl}}/assets/images/pingdom-github.jpg'>
@@ -95,7 +95,7 @@ Here it took 3.816s to load.
 <img src='{{site.baseurl}}/assets/images/github-webpagetest.jpg'>
 <img src='{{site.baseurl}}/assets/images/webpagetest-github2.jpg'>
 So here it took 3.793 seconds to load the site.
-The difference is very small but here github pages did better in Load Time, First Byte, Start Render, Speed Index ... 
+The difference is very small but here github pages did better in Load Time, Speed Index..
 
 <h4> Keycdn Speed Test </h4>
 
